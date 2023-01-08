@@ -1,0 +1,36 @@
+
+.body {
+    font-size: 16px;
+    background-color: hsl(239, 57%, 85%);
+    font-family: 'Rubik', sans-serif;
+}
+
+.postComment {
+    background-color:  hsl(0, 0%, 100%);
+}
+
+.comment {
+    margin: 10px;
+    padding: 25px;
+    width: 800px;
+    border-radius: 16px;
+    background-color: hsl(0, 0%, 100%);
+    float: right;
+}
+
+.reply {
+    margin: 10px 10px 10px 200px;
+    padding: 25px;
+    border-radius: 16px;
+    background-color: hsl(0, 0%, 100%);
+    width: 670px;
+    float: right;
+}
+
+.username {
+    color: hsl(212, 24%, 26%);
+
+}
+
+
+
